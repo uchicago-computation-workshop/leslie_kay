@@ -11,10 +11,10 @@ output:
 library(stringr)
 
 date <- "2/15/2018"
-vendor <- "Pizza Capri"
-title <- "Paper Title TBD"
-file_title <- "Paper Title"
-short_title_n = 2
+vendor <- "Good Earth Catering Company"
+title <- "How the Questions We Ask Affect the Answers We Get: A Lesson from Asking Rats How They Smell"
+file_title <- "Multiple Strategies during Odor Processing"
+short_title_n = 5
 speaker <- "Leslie Kay"
 department <- "Professor, Department of Psychology and The College"
 university <- "University of Chicago"
@@ -105,7 +105,7 @@ short_title_clean <- str_replace_all(short_title, punct, "")
 
 <p class=footertext2>
 
-**Abstract:** TBD
+**Abstract:** Behavioral tasks and training and testing history affect measured outcomes in cognitive tests. Rats sample odors longer in a go/no-go (GNG) than in a two-alternative choice (TAC) task, performing better in GNG unless they know both tasks. Odor-sampling time is extended in both tasks when the odors to be discriminated are very similar. Rats may extend sampling time to integrate odor information up to ∼0.5 s (2–6 sniffs). Such factors as task, task parameters, and training history affect decision times and performance, making it important to use multiple tasks when making inferences about sensory or cognitive processing.
 </p>
 
 <br>

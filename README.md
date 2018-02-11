@@ -1,3 +1,11 @@
+---
+output:
+  html_document:
+    highlight: null
+    css: style.css
+    self_contained: no
+    keep_md: true
+---
 
 
 
@@ -21,7 +29,7 @@
 
 <div class=pfblock-header3>
 <h2 class=pfblock-header>
-  <a href="https://github.com/uchicago-computation-workshop/leslie_kay/blob/master/2018__kay__paper_title.pdf" >Paper Title TBD</a>
+  <a href="https://github.com/uchicago-computation-workshop/leslie_kay/blob/master/2018__kay__multiple_strategies_during_odor_processing.pdf" >How the Questions We Ask Affect the Answers We Get: A Lesson from Asking Rats How They Smell</a>
 </h2>
 
 <br>
@@ -29,7 +37,7 @@
 
 <p class=footertext2>
 
-**Abstract:** TBD
+**Abstract:** Behavioral tasks and training and testing history affect measured outcomes in cognitive tests. Rats sample odors longer in a go/no-go (GNG) than in a two-alternative choice (TAC) task, performing better in GNG unless they know both tasks. Odor-sampling time is extended in both tasks when the odors to be discriminated are very similar. Rats may extend sampling time to integrate odor information up to ∼0.5 s (2–6 sniffs). Such factors as task, task parameters, and training history affect decision times and performance, making it important to use multiple tasks when making inferences about sensory or cognitive processing.
 </p>
 
 <br>
@@ -40,7 +48,7 @@
 
 <br>
 
-<p class=pfblock-header3>A light lunch will be provided by Pizza Capri.</p>
+<p class=pfblock-header3>A light lunch will be provided by Good Earth Catering Company.</p>
 
 <br><br>
 
